@@ -27,7 +27,7 @@ Blockchain workshop @ SCEM
 
 * Create, test and deploy a Proof of Ownership application. 
 
-## Pre requisites
+## Pre requisites or Required installations
 
 * Recommended to use a system of 4 GB RAM (Don't worry, we can still make it work). 
 
